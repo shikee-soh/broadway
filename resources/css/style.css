@@ -4,12 +4,28 @@ body {
 }
 
 h1 {
-  font-family: Helvetica, sans-serif;
   font-size: 70px;
   font-weight: bold;
   color: white;
   margin-top: 0px;
   margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 32px
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
 }
 
 .masthead {
@@ -21,4 +37,14 @@ h1 {
 .btn-nav {
   font-size: 18px;
   color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-size: 11px;
 }
