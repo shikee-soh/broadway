@@ -1,0 +1,24 @@
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.masthead {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
